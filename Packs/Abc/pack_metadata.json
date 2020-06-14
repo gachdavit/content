@@ -1,0 +1,21 @@
+{
+    "name": "Abc",
+    "description": "This is Abc integration",
+    "support": "developer",
+    "currentVersion": "1.0.0",
+    "author": "Dato Gachechiladze",
+    "url": "https://github.com/gachdavit",
+    "email": "gachdavit@gmail.com",
+    "created": "2020-06-14T01:24:29Z",
+    "categories": [
+        "Utilities"
+    ],
+    "tags": [
+        "integration",
+        "cortex",
+        "xsoar",
+        "python"
+    ],
+    "useCases": [],
+    "keywords": []
+}
